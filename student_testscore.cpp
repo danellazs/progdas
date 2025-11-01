@@ -2,7 +2,7 @@
 #include <iomanip>  
 using namespace std;
 
-const int n_students = 3;
+const int n_students = 20;
 
 struct student {
     string firstName;
